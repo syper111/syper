@@ -3,7 +3,7 @@
 
 /* ---- General Styles ---- */
 :root {
-    --primary-color: #00ffff; /* Neon Cyan/Blue */
+    --primary-color: #5ddede; /* Neon Cyan/Blue */
     --secondary-color: #f000ff; /* Neon Pink/Magenta */
     --bg-color: #0e0629; /* Dark Purple Background */
 }
@@ -18,7 +18,7 @@ body {
     font-family: 'Cairo', sans-serif;
     direction: rtl;
     background-color: var(--bg-color);
-    color: #f4f4f4;
+    color: #fefefe;
     display: flex;
     justify-content: center;
     align-items: center;
